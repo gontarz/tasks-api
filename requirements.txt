@@ -1,0 +1,10 @@
+django
+djangorestframework
+drf-extensions
+
+#db
+mysql-connector-python
+
+#schemas
+coreapi
+pyyaml
